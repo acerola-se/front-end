@@ -1,0 +1,26 @@
+div {
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding: 20px 10px;
+    width: 300px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+}
+
+input {
+    padding: 7px;
+}
+
+#submit {
+    background-color: green;
+    color: white;
+}
